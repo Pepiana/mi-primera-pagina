@@ -83,7 +83,13 @@ a {
 
 .button-menu-toggle {
   display: none;
+
 }
+
+.greeting {
+  text-align: center;
+  }
+  
 
 @media (max-width: 600px) {
   .column {
